@@ -1,0 +1,43 @@
+/build
+/app/build
+*/build/
+
+# Archivos de Gradle
+.gradle/
+**/local.properties
+.gradle/
+gradlew
+gradlew.bat
+
+# Archivos del IDE (Android Studio / IntelliJ)
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de registro
+*.log
+
+# Cachés
+.cxx/
+.externalNativeBuild/
+
+# Archivos de configuración local
+*.env
+*.keystore
+*.jks
+
+# Archivos generados por lint/analysis
+lint/intermediates/
+lint/generated/
+lint/outputs/
+lint/tmp/
+
+# Otros
+bin/
+gen/
+out/
