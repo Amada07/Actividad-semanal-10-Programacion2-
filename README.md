@@ -53,3 +53,24 @@ Paso 6: Aplicacion ejecutandose
 •	Pruebas al rotar la pantalla 
 
 ![paso 6](Imagenes/19.jpg)
+
+
+### Errores
+Error 1: Error generado por utilizar llaves 
+
+![error1](Imagenes/15.jpg)
+
+Solucion: Colocar parentesis en lugar de las llaves 
+
+![error1](Imagenes/16.jpg)
+
+Error 2: Unresolved reference: 'MainScreen'-significa que todavía no existe ninguna funcion con el nombre MainSreen 
+
+![error2](Imagenes/17.jpg)
+
+Solucion: Crear el MainScreen
+
+![error2](Imagenes/18.jpg)
+
+
+
